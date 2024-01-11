@@ -1,6 +1,6 @@
 # Assignmnet 1 - Git, Github and TypeScript Starter Code
 
-See recitation handout on the [course website](https://cs-ucf.github.io/CEN-5016-S24/assignments/assignment-1)
+See assignment on the [course website](https://cs-ucf.github.io/CEN-5016-S24/assignments/assignment-1)
 
 The starter code is a basic express server with an endpoint that computes fibonacci(n)
 
